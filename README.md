@@ -3,7 +3,8 @@
 ## 📌 Project Overview
 This project analyzes **bike purchase behavior** across customer demographics and lifestyle factors such as **age, gender, income, education, occupation, commute distance, and region**.  
 The goal is to build an **interactive Excel dashboard** to uncover insights into who is more likely to purchase bikes and why.
-<img width="1550" height="767" alt="image" src="https://github.com/user-attachments/assets/ba5dfd63-d08c-403f-b8a2-acd6178dccb0" />
+
+https://github.com/user-attachments/assets/f1f1a829-d75a-4a3a-beb2-a68213e285b2
 
 ---
 
